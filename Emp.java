@@ -15,9 +15,14 @@ System.out.println("python");
 		System.out.println("selenium");
 
 	}
+	private void m4() {
+System.out.println("123");
+	}
 	public static void main(String[] args) {
 		Emp e=new Emp();
 		e.m1();
+
+		e.m4();
 
 		e.m3();
 
